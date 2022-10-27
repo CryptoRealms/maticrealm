@@ -2267,7 +2267,7 @@
                                 className: "infobar__item info",
                                 children: [Object(d.jsx)("div", {
                                     className: "info__title",
-                                    children: "Total Warriors"
+                                    children: "Total Knights"
                                 }), Object(d.jsx)("div", {
                                     className: "info__value",
                                     children: s
