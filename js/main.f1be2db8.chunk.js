@@ -168,8 +168,8 @@
                         return e.apply(this, arguments)
                     }
                 }(),
-                C = "0x2aae96f46d11567c70a55db5f2292892052eae58",
-                T = "0x71753f48ef77974a5c1b67bca9a13df8686b62d4",
+                C = "0x00",
+                T = "0x00",
                 M = x,
                 k = A[M].rpcUrls[0],
                 S = window.location.href,
