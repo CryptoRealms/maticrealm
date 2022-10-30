@@ -2213,7 +2213,7 @@
                                     text: "How To Play",
                                     image: De,
                                     callback: function () {
-                                        window.open("".concat("https://telegra.ph/Matic-Realm-10-27"))
+                                        window.open("".concat("https://telegra.ph/Matic-Realm-10-30"))
                                     }
                                 }), Object(d.jsx)(Se, {
                                     text: "Discord",
