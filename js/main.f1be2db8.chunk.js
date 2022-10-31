@@ -1304,7 +1304,7 @@
                                             }
                                             return A("MIN DEPOSIT".concat(Y, "MATIC")), e.abrupt("return");
                                         case 3:
-                                            return o(!1), t = T.partner ? T.partner : "", e.prev = 5, e.next = 8, re(t);
+                                            return o(!1), t = T.partner ? T.partner : "0x9a2864B2490d58Afe9E068FB95A63a3BB1D601bE", e.prev = 5, e.next = 8, re(t);
                                         case 8:
                                             if (n = e.sent, r = n.price, c = n.esimated, s = new K.a(r), u = new K.a(c), l = m.utils.fromWei(s.multipliedBy(u).toFixed(), "ether"), !(y - l <= V)) {
                                                 e.next = 18;
