@@ -1762,7 +1762,7 @@
                                 children: [Object(d.jsx)("div", {
                                     className: "tower-upgrade__icon",
                                     children: Object(d.jsx)("img", {
-                                        src: "https://i.imgur.com/RAOrjHL.png"
+                                        src: "https://i.imgur.com/W8vXYnH.png"
                                     })
                                 }), Object(d.jsxs)("p", {
                                     className: "tower-upgrade__info",
