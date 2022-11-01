@@ -2216,10 +2216,10 @@
                                         window.open("".concat("https://telegra.ph/Matic-Realm-10-30"))
                                     }
                                 }), Object(d.jsx)(Se, {
-                                    text: "Discord",
+                                    text: "Telegram",
                                     image: Ye,
                                     callback: function () {
-                                        window.open("".concat("https://discord.gg/ENnmNZcpKU"))
+                                        window.open("".concat("https://t.me/maticrealm"))
                                     }
                                 }), Object(d.jsx)(Se, {
                                     style: {
